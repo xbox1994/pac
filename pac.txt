@@ -5,7 +5,7 @@ var __RULES__ = [
   "||opensea.io",
   "||dextools.io",
   "||poocoin.app",
-  "||afreecatv.com",
+  "||mirror.xyz",
   "||afreecatv.com",
   "||afreecatv.com",
   "||afreecatv.com",
